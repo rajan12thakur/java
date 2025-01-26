@@ -1,2 +1,2 @@
 # java ....
-core java advanced java
+core java advanced jav
